@@ -1,1 +1,1 @@
-# Smiles-UAT
+# Smiles
